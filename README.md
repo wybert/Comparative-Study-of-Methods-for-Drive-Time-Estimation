@@ -4,8 +4,7 @@ Comparative-Study-of-Methods-for-Drive-Time-Estimation
 Code for FOSS4G 2023, start with the notebooks under notebooks folder.
 
 Project Organization
-------------
-
+```bash
 ├── LICENSE
 ├── Makefile
 ├── README.md
@@ -52,8 +51,7 @@ Project Organization
 │       └── visualize.py
 ├── test_environment.py
 └── tox.ini
-
---------
+```
 
 
 
